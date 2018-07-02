@@ -1,4 +1,4 @@
-# android-tpl
+# android-template
 
 [![changelog][changelog-image]][changelog-url]
 
